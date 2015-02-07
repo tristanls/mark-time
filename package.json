@@ -1,0 +1,17 @@
+{
+  "name": "mark-time",
+  "version": "1.0.0",
+  "description": "Mark high resolution time as floating point milliseconds.",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/mark-time.git"
+  },
+  "contributors": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "license": "MIT"
+}
