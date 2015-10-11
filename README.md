@@ -1,6 +1,6 @@
 # mark-time
 
-_Stability: 5 - [Locked](https://github.com/tristanls/stability-index#stability-5---locked)_
+_Stability: 3 - [Locked](https://github.com/tristanls/stability-index#stability-3---locked)_
 
 Mark high resolution time as floating point milliseconds (valid up to six decimal places).
 
